@@ -32,6 +32,9 @@ public class Main2Activity extends AppCompatActivity {
         leki.add(new Lek("Paracetamol", "160mg"));
         leki.add(new Lek("Ibuprom", "120mg"));
 
+        //LekAdapter lekAdapter= new LekAdapter(leki);
+        //recyclerView.setAdapter(lekAdapter);
+
 
 
     }
